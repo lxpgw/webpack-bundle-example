@@ -1,0 +1,19 @@
+{
+  "name": "webpack-bundle-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.15.6",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.11.0"
+  }
+}
